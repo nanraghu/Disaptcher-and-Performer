@@ -1,5 +1,6 @@
 {
   "name": "DispatcherAndPerformer",
+  "projectId": "a660f24a-3341-467f-93a9-8154c3258dcd",
   "description": "DispatcherAndPerformer_OrchestratorQueue",
   "main": "Main.xaml",
   "dependencies": {
@@ -43,7 +44,7 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "modernBehavior": true
+    "saveToCloud": false
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
